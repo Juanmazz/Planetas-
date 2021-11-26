@@ -1,0 +1,8 @@
+C:\Users\LAB03\Documents\SharpDevelop Projects\planetas\planetas\obj\Debug\planetas.csprojResolveAssemblyReference.cache
+C:\Users\LAB03\Documents\SharpDevelop Projects\planetas\planetas\obj\Debug\planetas.MainForm.resources
+C:\Users\LAB03\Documents\SharpDevelop Projects\planetas\planetas\obj\Debug\planetas.csproj.GenerateResource.Cache
+C:\Users\LAB03\Documents\SharpDevelop Projects\planetas\planetas\bin\Debug\planetas.exe.config
+C:\Users\LAB03\Documents\SharpDevelop Projects\planetas\planetas\bin\Debug\planetas.exe
+C:\Users\LAB03\Documents\SharpDevelop Projects\planetas\planetas\bin\Debug\planetas.pdb
+C:\Users\LAB03\Documents\SharpDevelop Projects\planetas\planetas\obj\Debug\planetas.exe
+C:\Users\LAB03\Documents\SharpDevelop Projects\planetas\planetas\obj\Debug\planetas.pdb
